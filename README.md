@@ -1,0 +1,4 @@
+springMahout
+============
+
+Spring mahout sample
